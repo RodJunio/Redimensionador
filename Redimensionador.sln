@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redimensionador", "Redimensionador.csproj", "{6B26EBDC-776C-45EB-8D43-DFFA4141EF87}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Arquivos_Entrada", "Arquivos_Entrada", "{BFCBD742-0E19-4F9C-9BAD-FB2A07FA7179}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Arquivos_Redimensionados", "Arquivos_Redimensionados", "{EBFDEDF9-E697-456F-A35F-CEF7C93033FF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Arquivos_Finalizados", "Arquivos_Finalizados", "{12B98094-C818-4508-B0AC-781C4B4BFD6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B26EBDC-776C-45EB-8D43-DFFA4141EF87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B26EBDC-776C-45EB-8D43-DFFA4141EF87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B26EBDC-776C-45EB-8D43-DFFA4141EF87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B26EBDC-776C-45EB-8D43-DFFA4141EF87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE5A9937-3EBE-4126-BAFF-4223AE1C2271}
+	EndGlobalSection
+EndGlobal
